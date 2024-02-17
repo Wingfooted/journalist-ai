@@ -1,0 +1,34 @@
+
+There are 2 main types of insulation product:
+bulk: which primarily affects conduction heat flow between objects that are touching
+reflective foil: which primarily affects radiation heat flow.
+Bulk insulation
+The best type of insulation is bulk insulation. Bulk insulation traps millions of tiny pockets of still air within its structure. These air pockets provide the resistance to heat flow which gives the material its insulating effect. It is important not to compress bulk insulation, as this will reduce the air pockets and the material will lose its insulating properties. Bulk insulation is available as batts, blankets and boards or as loose fill which is pumped or blown into the area to be insulated.
+Type	Description	Material
+Batts or blanket insulation	Batts or blanket insulation are the best choice for ceiling insulation if you have a flat ceiling and pitched metal or tile roof.	The range of batts and blankets that may be suitable for ceiling insulation include; polyester, natural wool, glass wool and rockwool.
+Board insulation	Board insulation can be useful in cathedral ceilings where there is very little space between the ceiling and the roof.	Available in extruded polystyrene, with or without foil.
+Loose-fill insulation	Loose-fill insulation can be used in in ceilings, however it can settle over time, reducing its effectiveness.	Available in cellulose fibre, polyester, natural wool and granulated rockwool.
+
+Reflective foil insulation works by reducing the radiant heat transfer across an enclosed space. It works most effectively when placed with the shiny side facing an enclosed air space of at least 25mm.
+
+The smartest place to install reflective foil is in walls or as sarking under the roof, as it reflects radiant heat away from the interior of the building in summer. For maximum effectiveness, reflective insulation needs to remain clean and dust free, as dust build up will reduce reflectivity. Any gaps in the foil will also reduce its performance.
+
+During a major renovation, parts of the roof may need to be removed. This provides an ideal opportunity to install an insulation blanket paired with reflective foil, called foil-backed insulation, over the battens before laying down the roofing. The blanket becomes compressed over the battens, but sags in between, creating a cushioning air gap to provide further insulation.
+
+Installing foil-backed blanket insulation is also a great idea if you are building a flat roof or cathedral ceiling.
+
+It's recommended that you install foil-backed insulation in your roof to an R value of R1.0 or higher.
+""
+R values
+The R value is a measure of a material's resistance to heat flow (known as thermal resistance). The higher the R value, the greater the resistance to heat transfer, the greater the insulating effect and the greater the energy (and therefore money) savings.
+
+Bulk insulation products which have the same R value will provide exactly the same insulating effect as each other, provided they are correctly installed, making it easy for you to compare different products, regardless of thickness or the type of material.
+Learn more about insulation
+Ceiling insulation
+Floor insulation
+Wall insulation
+Insulation health and safety
+Related pages
+
+Home ceiling insulation
+Insulation is the most cost-effective way to improve the energy efficiency and comfort of your home.
