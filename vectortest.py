@@ -27,8 +27,8 @@ if __name__ == '__main__':
     db_connection = {
     'host': 'localhost',
     'user': 'root',
-    'password': 'Mariaw57!', 
-    'database': 'news'
+    'password': '', 
+    'database': ''
     }
 
     author = author(
